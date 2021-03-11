@@ -7,22 +7,9 @@ You can read more about B2G here:
   http://wiki.mozilla.org/B2G
   https://developer.mozilla.org/en-US/docs/Mozilla/B2G_OS
 
-follow us on twitter: @Boot2Gecko
+This fork of B2G aims to restore and maintain B2G for the modern web. We believe that with more HTML5 web apps than ever before, Firefox OS would be more than capable of being a contender in not only the Mobile space, but also a viable competitor against Chrome OS given enough time and effort.
 
-  http://twitter.com/Boot2Gecko
-
-join the Mozilla Platform mailing list:
-
-  http://groups.google.com/group/mozilla.dev.platform
-
-and talk to us on IRC:
-
-  #B2G on irc.mozilla.org
-
-or Telegram:
-
-  https://telegram.me/B2GOS
-
-Discuss with Developers:
-
-  Discourse: https://discourse.mozilla-community.org/c/b2g-os-participation
+Not sure if this'll go anywhere, we'll see.
+Currently it's either untouched, or barely modified.
+Would not recommend building now unless you wish to contribute.
+(Issue reports are welcome, as well as Pull requests.)
